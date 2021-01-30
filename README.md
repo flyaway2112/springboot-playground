@@ -1,8 +1,8 @@
 # 概要
 
-Spring BootでRESTful APIの実装およびのテストのサンプルです。
+Spring BootでRESTful APIの実装およびテストを作成する課題です。
 
-現在はController層のみを実装しています。
+現在はController層のみが対象です。
 
 # 課題
 
